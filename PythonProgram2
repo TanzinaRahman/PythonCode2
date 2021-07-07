@@ -1,0 +1,9 @@
+# My Biodata Program
+'''
+
+Hello Everyone
+'''
+print("tanzina rahman".title())
+print("01717134388")
+print("Daffodil Inernational University")
+print("Dhaka , Bangladesh")
